@@ -86,3 +86,7 @@
        - **Boundary Regression based deep neural network for thyroid nodule segmentation in ultrasound images (Neural Computing and Applications 2022)**
      - 眼部OCT图像分析
        - **Deep Learning Based Early Stage Diabetic Retinopathy Detection Using Optical Coherence Tomography (Neurocomputing 2019)** [[paper](https://www.sciencedirect.com/science/article/pii/S0925231219312172)]
+
+  6. 大规模语言模型（LLM）
+
+     - [伶荔（Linly）大语言模型](https://github.com/CVI-SZU/Linly)
