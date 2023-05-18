@@ -1,7 +1,9 @@
 # 深圳大学计算机视觉研究所 :sunny: 
 ## 研究领域
    1. 通用深度学习理论
-    
+      - 通用大规模语言模型 - [伶荔（Linly）](https://github.com/CVI-SZU/Linly)
+        - **CSL: A Large-scale Chinese Scientific Literature Dataset (COLING 2022)** [[paper](https://aclanthology.org/2022.coling-1.344/)][[code](https://github.com/ydli-ai/CSL)]
+        - **TencentPretrain: A Scalable and Flexible Toolkit for Pre-training Models of Different Modalities (ACL 2022)** [[paper](https://arxiv.org/abs/2212.06385)][[code](https://github.com/Tencent/TencentPretrain)]
       - 新型网络架构、特征提取模块提升CNN 性能；提出小波卷积层代替下采样池化及上采样模块，解决高低频信号混叠问题。
         - **WaveCNet: Wavelet Integrated CNNs to Suppress Aliasing Effect for Noise-Robust Image Classification (IEEE TIP 2021)** [[paper](https://ieeexplore.ieee.org/document/9508165)]         
         - **Wavelet Integrated CNNs for Noise-Robust Image Classification (CVPR 2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Wavelet_Integrated_CNNs_for_Noise-Robust_Image_Classification_CVPR_2020_paper.pdf)] [[code](https://github.com/CVI-SZU/WaveCNet)]
@@ -86,7 +88,3 @@
        - **Boundary Regression based deep neural network for thyroid nodule segmentation in ultrasound images (Neural Computing and Applications 2022)**
      - 眼部OCT图像分析
        - **Deep Learning Based Early Stage Diabetic Retinopathy Detection Using Optical Coherence Tomography (Neurocomputing 2019)** [[paper](https://www.sciencedirect.com/science/article/pii/S0925231219312172)]
-
-  6. 大规模语言模型（LLM）
-
-     - [伶荔（Linly）大语言模型](https://github.com/CVI-SZU/Linly)
