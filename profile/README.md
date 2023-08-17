@@ -34,6 +34,9 @@
   3. 人脸识别/分析
 
      基于深度卷积网络的人脸识别、表情、年龄等属性识别方法及系统，基于人脸视频的个体性格、抑郁等心理情绪预测。开发的人脸识别系统在深圳高交会、双创周、杭州G20和新疆安防广泛使用。
+     
+     - 二维人脸识别，集成统一阈值的损失函数
+       - **UniFace: Unified Cross-Entropy Loss for Deep Face Recognition (ICCV 2023)** [[paper](https://github.com/LiQiufu/UniFace/blob/main/UniFace-ICCV2023.pdf)] [[code](https://github.com/Jason-Zhou-JC/UniFace)] 
      -  基于人脸时域变化特征提取与学习的抑郁、性格分析，基于个体人脸反应生成网络的性格分析
         - **Self-supervised Learning of Person-specific Facial Dynamics for Automatic Personality Recognition (IEEE TAFC 2021)** [[paper](https://ieeexplore.ieee.org/document/9373959)]
         - **Spectral Representation of Behaviour Primitives for Depression Analysis (IEEE TAFC 2020)** [[paper](https://ieeexplore.ieee.org/document/8976305)] [[code](https://github.com/SSYSteve/Human-behaviour-based-depression-analysis-using-hand-crafted-statistics-and-deep-learned)]
@@ -47,10 +50,8 @@
        - **Sparse deep feature learning for facial expression recognition (Pattern Recognition 2019)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/PR2019.pdf)] [[project](https://wcxie.github.io/Weicheng-Xie/PaperProject/SDFL_PR2019/)]
      - 基于多维边缘特征的面部运动单元的关系图学习以及动作单元的识别应用
        - **Learning Multi-dimensional Edge Feature-based AU Relation Graph for Facial Action Unit Recognition (IJCAI 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/IJCAI2022.pdf)] [[code](https://github.com/CVI-SZU/MEFARG)]
-     - 集成统一阈值的人脸识别损失函数
-       - **UniFace: Unified Cross-Entropy Loss for Deep Face Recognition (ICCV 2023)** [[paper](https://github.com/LiQiufu/UniFace/blob/main/UniFace-ICCV2023.pdf)] [[code](https://github.com/Jason-Zhou-JC/UniFace)] 
 
-  4. 人脸生成与属性编辑
+  5. 人脸生成与属性编辑
 
      - 基于图像翻译的人脸属性编辑
        - **AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation (IEEE TMM 2022)** [[paper](https://ieeexplore.ieee.org/document/9541089)]
@@ -67,7 +68,7 @@
      - 亲子关系人脸合成
          - **StyleGene: Crossover and Mutation of Region-Level Facial Genes for Kinship Face Synthesis (CVPR2023 Highlight 2.6%)** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_StyleGene_Crossover_and_Mutation_of_Region-Level_Facial_Genes_for_Kinship_CVPR_2023_paper.pdf)] [[project](https://github.com/CVI-SZU/StyleGene)]
 
-  5. 医学图像智能分析
+  6. 医学图像智能分析
 
      - 细胞检测、分割与分类
        - **Sample hardness based gradient loss for long-tailed cervical cell detection (MICCAI 2022)** [[code](https://github.com/M-LLiu/Grad-Libra)]
