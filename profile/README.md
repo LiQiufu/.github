@@ -36,7 +36,9 @@
      基于深度卷积网络的人脸识别、表情、年龄等属性识别方法及系统，基于人脸视频的个体性格、抑郁等心理情绪预测。开发的人脸识别系统在深圳高交会、双创周、杭州G20和新疆安防广泛使用。
      
      - 二维人脸识别，集成统一阈值的损失函数
-       - **UniFace: Unified Cross-Entropy Loss for Deep Face Recognition (ICCV 2023)** [[paper](https://github.com/LiQiufu/UniFace/blob/main/UniFace-ICCV2023.pdf)] [[code](https://github.com/Jason-Zhou-JC/UniFace)] 
+       - **UniFace: Unified Cross-Entropy Loss for Deep Face Recognition (ICCV 2023)** [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_UniFace_Unified_Cross-Entropy_Loss_for_Deep_Face_Recognition_ICCV_2023_paper.html)] [[code](https://github.com/Jason-Zhou-JC/UniFace)]
+     - 二维人脸识别，集成统一阈值的样本间损失函数
+       - **UniTSFace: Unified Threshold Integrated Sample-to-Sample Loss for Face Recognition (NeurIPS 2023)**[[paper](None)][[coder](https://github.com/CVI-SZU/UniTSFace)]
      -  基于人脸时域变化特征提取与学习的抑郁、性格分析，基于个体人脸反应生成网络的性格分析
         - **Self-supervised Learning of Person-specific Facial Dynamics for Automatic Personality Recognition (IEEE TAFC 2021)** [[paper](https://ieeexplore.ieee.org/document/9373959)]
         - **Spectral Representation of Behaviour Primitives for Depression Analysis (IEEE TAFC 2020)** [[paper](https://ieeexplore.ieee.org/document/8976305)] [[code](https://github.com/SSYSteve/Human-behaviour-based-depression-analysis-using-hand-crafted-statistics-and-deep-learned)]
